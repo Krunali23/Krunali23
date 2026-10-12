@@ -42,10 +42,10 @@ I'm a Computer Engineering student passionate about Data Analytics, Data Visuali
 I enjoy turning raw datasets into meaningful insights and learning something new through every project! 🚀
 
 ## 🌐 Socials
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krunali23)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krunali-pujari-ab6355343/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krunalipujari@gmail.com)
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
